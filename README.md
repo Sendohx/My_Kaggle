@@ -1,3 +1,3 @@
 # Competitions
 ##  Optiver - Trading at the Close --- Top 2%, Silver Medal 
-##  Home Credit - Credit Risk Model Stability --- Pending
+##  Home Credit - Credit Risk Model Stability --- ongoing
